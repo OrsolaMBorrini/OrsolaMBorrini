@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **applied Machine Learning for research on ancient texts**
 
-- 👨‍💻 All of my projects are available at [// tbd //](// tbd //)
+- 👨‍💻 All of my projects are available at [// tbd //]
 
 - 📫 How to reach me **orsolaborrini@gmail.com**
 
