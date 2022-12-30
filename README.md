@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orsola M. Borrini</h1>
 <h3 align="center">Student of MA in "Digital Humanities and Digital Knowledge", University of Bologna (Italy)</h3>
 
-- 🔭 I’m currently working on [Computing Melville](https://orsolamborrini.github.io/ComputingMelville/)
+- 🔭 I’m currently working on [Blessed Be the Fruit](https://github.com/OrsolaMBorrini/blessedfruit)
 
 - 🌱 I’m currently learning **applied Machine Learning for research on ancient texts**
 
