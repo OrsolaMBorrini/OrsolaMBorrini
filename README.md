@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orsola M. Borrini</h1>
 <h3 align="center">Student of MA in "Digital Humanities and Digital Knowledge", University of Bologna (Italy)</h3>
 
-- 🔭 I’m currently working on [Blessed Be the Fruit](https://github.com/OrsolaMBorrini/blessedfruit)
+- 🔭 I’m currently working on [Blessed Be the Fruit](https://github.com/OrsolaMBorrini/blessedfruit), an open data project analysing factors that might influence pregnancy rates in young women in Italy.
 
-- 🌱 I’m currently learning **applied Machine Learning for research on ancient texts**
+- 🌱 I’m interested in **applied Machine Learning for research on ancient texts**
 
 - 👨‍💻 All of my projects are available at [// tbd //]
 
