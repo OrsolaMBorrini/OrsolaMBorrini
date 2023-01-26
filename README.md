@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Blessed Be the Fruit](https://github.com/OrsolaMBorrini/blessedfruit), an open data project analysing factors that might influence pregnancy rates in young women in Italy.
 
-- 🌱 I’m interested in **applied Machine Learning for research on ancient texts**
+- 🌱 I’m interested in **applied AI for research on cultural heritage**
 
 - 👨‍💻 All of my projects are available at [// tbd //]
 
