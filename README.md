@@ -5,7 +5,7 @@
 
 - 🌱 I’m interested in **applied AI for research on cultural heritage**
 
-- 👨‍💻 All of my projects are available at [// tbd //]
+- 👨‍💻 All of my projects are available at [this repository](https://github.com/OrsolaMBorrini/PersonalPortfolio)
 
 - 📫 How to reach me **orsolaborrini@gmail.com**
 
