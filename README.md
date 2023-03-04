@@ -3,7 +3,7 @@
 
 - :thought_balloon: I am currently brainstorming with my team mates for a project related to the field of **information visualization and digital storytelling**... stay tuned to see what we come up with!
 
-- :mag: My latest project is [Blessed Be the Fruit](https://github.com/OrsolaMBorrini/blessedfruit), an **open data research** analysing factors that might influence pregnancy rates in young women in Italy.
+- :mag: My latest project is [Blessed Be the Fruit](https://orsolamborrini.github.io/blessedfruit/), an **open data research** analysing factors that might influence pregnancy rates in young women in Italy.
 
 - 🌱 I’m interested in **applied AI for research on cultural heritage**
 
