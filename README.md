@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orsola M. Borrini</h1>
 <h3 align="center">Student of MA in "Digital Humanities and Digital Knowledge", University of Bologna (Italy)</h3>
 
-- :thought_balloon: I am currently working on [**Through the Gaze**](https://ahsanv101.github.io/ProjectGaze/), an information visualization project researching the impact of the 'male gaze' in the highest-grossing movies in the US between the 1940s and 2010s... stay tuned to see what we come up with!
+- :thought_balloon: I am currently working on my Master's thesis, applying ML on photographic CH... stay tuned to see the results!
 
-- :mag: My latest project is [Blessed Be the Fruit](https://orsolamborrini.github.io/blessedfruit/), an **open data research** analysing factors that might influence pregnancy rates in young women in Italy.
+- :mag: My latest project is [**Through the Gaze**](https://ahsanv101.github.io/ProjectGaze/), an information visualization project researching the impact of the 'male gaze' in the highest-grossing movies in the US between the 1940s and 2010s
 
 - 🌱 I’m interested in **applied AI for research on cultural heritage**
 
