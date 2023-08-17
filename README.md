@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orsola M. Borrini</h1>
 <h3 align="center">Student of MA in "Digital Humanities and Digital Knowledge", University of Bologna (Italy)</h3>
 
-- :thought_balloon: I am currently working on my Master's thesis, applying ML on photographic CH... stay tuned to see the results!
+- :thought_balloon: I am currently working on my Master's thesis, applying ML on colonial photographic archives... stay tuned to see the results!
 
 - :mag: My latest project is [**Through the Gaze**](https://ahsanv101.github.io/ProjectGaze/), an information visualization project researching the impact of the 'male gaze' in the highest-grossing movies in the US between the 1940s and 2010s
 
