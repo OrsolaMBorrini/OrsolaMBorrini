@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orsola M. Borrini</h1>
 <h3 align="center">Student of MA in "Digital Humanities and Digital Knowledge", University of Bologna (Italy)</h3>
 
-- :thought_balloon: I am currently working on my Master's thesis, applying ML on colonial photographic archives... stay tuned to see the results!
+<!-- - :thought_balloon: I am currently looking for a PhD position on digital cultural heritage and -->
 
-- :mag: My latest project is [**Through the Gaze**](https://ahsanv101.github.io/ProjectGaze/), an information visualization project researching the impact of the 'male gaze' in the highest-grossing movies in the US between the 1940s and 2010s
+- :mag: My latest project is [**Revealing contested memory**](https://github.com/OrsolaMBorrini/master-thesis-rcm), my master's thesis on the feasibility of automatic sensitive content detection in colonial photographic archives through Image Classification algorithms! Both the thesis and the code are publicly available in the Github repo of the project, check it out!
 
 - 🌱 I’m interested in **applied AI for research on cultural heritage**
 
