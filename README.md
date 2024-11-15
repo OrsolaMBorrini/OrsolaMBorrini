@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orsola M. Borrini</h1>
-<h3 align="center">Student of MA in "Digital Humanities and Digital Knowledge", University of Bologna (Italy)</h3>
+<h3 align="center">PhD candidate @ ILLC (University of Amsterdam)</h3>
 
-- :thought_balloon: PhD candidate @ ILLC (University of Amsterdam) -- my project focuses on the application of XAI to Cultural Heritage :)
+- :thought_balloon: My project focuses on the application of XAI to Cultural Heritage :)
 
 - :mag: My latest project is [**Revealing contested memory**](https://github.com/OrsolaMBorrini/master-thesis-rcm), my master's thesis on the feasibility of automatic sensitive content detection in colonial photographic archives through Image Classification algorithms (master degree in Digital Humanities and Digital Knowledge @ Alma Mater Studiorum - University of Bologna). Both the thesis and the code are publicly available in the Github repo of the project, check it out!
 
